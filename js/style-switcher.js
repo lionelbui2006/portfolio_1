@@ -10,7 +10,6 @@ function hideStyleSwitcher()
         switcher.classList.remove("open");
     }
 }
-
 window.addEventListener("mousewheel", hideStyleSwitcher);
 window.addEventListener("touchmove", hideStyleSwitcher);
 /* Theme Colors */
