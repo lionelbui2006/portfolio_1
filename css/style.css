@@ -160,7 +160,7 @@ ul
 {
     box-shadow: 0 0 20px rgba(48, 46, 77, 0.15);
 }
-/* aside */
+/* Aside */
 .aside
 {
     width: 270px;
@@ -305,7 +305,7 @@ ul
 {
     margin-right: 15px;
 }
-/* home */
+/* Home */
 .home
 {
     min-height: 100vh;
@@ -380,7 +380,7 @@ ul
     border-radius: 5px;
     height: 400px;
 }
-/* about */
+/* About */
 .about > .about-content
 {
     flex: 0 0 100%;
@@ -571,7 +571,7 @@ ul
     text-align: justify;
     color: var(--text-black-700);
 }
-/* service */
+/* Service */
 .service > .container
 {
     padding-bottom: 40px;
@@ -635,7 +635,7 @@ ul
     color: var(--text-black-700);
     line-height: 25px;
 }
-/* portfolio */
+/* Portfolio */
 .portfolio > .container
 {
     padding-bottom: 40px;
@@ -669,7 +669,7 @@ ul
     width: 100%;
     display: block;
 }
-/* contact */
+/* Contact */
 .contact-title
 {
     color: var(--skin-color);
